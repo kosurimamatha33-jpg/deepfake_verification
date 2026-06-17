@@ -79,7 +79,7 @@ cd deepfake-verification-system
 **2. Create and activate a virtual environment (recommended)**
 
 ```bash
-# Windows
+# Windows (like vs code)
 python -m venv venv
 venv\Scripts\activate
 
