@@ -72,7 +72,7 @@ Then 5 eyebrow features are extracted:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/deepfake-verification-system.git
+git clone https://github.com/kosurimamatha33-jpg/deepfake_verification.git
 cd deepfake-verification-system
 ```
 
